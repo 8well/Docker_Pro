@@ -1,0 +1,2 @@
+#below is an attached image - i realised rewriting the docker file could make things less complex to achieve the end goal of running the app designed.
+docker pull 8well/ff2f336cdc8f
